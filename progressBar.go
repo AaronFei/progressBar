@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"gitlab.com/xyzyx760326/golanglib/rewrite"
+	"github.com/AaronFei/rewrite"
 )
 
 type finishStatus_t int
